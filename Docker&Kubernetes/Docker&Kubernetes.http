@@ -1,0 +1,6 @@
+@Docker_Kubernetes_HostAddress = http://localhost:5123
+
+GET {{Docker_Kubernetes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
